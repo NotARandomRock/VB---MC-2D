@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{734B3950-0D53-4C4F-AAAF-3271E8FFC26F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Finale_Project___Minecraft.My.MyApplication</StartupObject>
+    <RootNamespace>Finale_Project___Minecraft</RootNamespace>
+    <AssemblyName>Finale Project - Minecraft</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Finale Project - Minecraft.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Finale Project - Minecraft.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Escape.Designer.vb">
+      <DependentUpon>Escape.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escape.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gameplay.Designer.vb">
+      <DependentUpon>Gameplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gameplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launch.Designer.vb">
+      <DependentUpon>Launch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Launch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Options2.Designer.vb">
+      <DependentUpon>Options2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Options2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop.Designer.vb">
+      <DependentUpon>Shop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VSDATADataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VSDATADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VSDATADataSet.vb">
+      <DependentUpon>VSDATADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.vb">
+      <DependentUpon>Welcome.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Options.Designer.vb">
+      <DependentUpon>Options.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Escape.resx">
+      <DependentUpon>Escape.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gameplay.resx">
+      <DependentUpon>Gameplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Launch.resx">
+      <DependentUpon>Launch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options2.resx">
+      <DependentUpon>Options2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop.resx">
+      <DependentUpon>Shop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options.resx">
+      <DependentUpon>Options.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="VSDATADataSet.xsc">
+      <DependentUpon>VSDATADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VSDATADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VSDATADataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VSDATADataSet.xss">
+      <DependentUpon>VSDATADataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minecraft-dirt-background-7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create-a-new-world %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minecraft_hd_logo_by_nuryrush-da2aumi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Credits.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minecraftpattern-03-091815-742_thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dirt-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\N7cKRE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emeraldore.png" />
+    <None Include="Resources\diamondore.png" />
+    <None Include="Resources\sandfloor.png" />
+    <None Include="Resources\sand.png" />
+    <None Include="Resources\waterfall.gif" />
+    <None Include="Resources\jumpstand.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\floor.png" />
+    <None Include="Resources\Emerald.png" />
+    <None Include="Resources\coal_icon32.png" />
+    <None Include="Resources\ironingot_icon32.png" />
+    <None Include="Resources\Gold_Ingot.png" />
+    <None Include="Resources\Diamond.png" />
+    <None Include="Resources\sunback.png" />
+    <None Include="Resources\inv.PNG" />
+    <None Include="Resources\sun.jpg" />
+    <None Include="Resources\mine2.png" />
+    <None Include="Resources\movepose4.png" />
+    <None Include="Resources\movepose3.png" />
+    <None Include="Resources\mine1.png" />
+    <None Include="Resources\movepose2.png" />
+    <None Include="Resources\movepose1.png" />
+    <None Include="Resources\pose2.png" />
+    <None Include="Resources\pose1.png" />
+    <None Include="Resources\click.wav" />
+    <None Include="Resources\donehover.PNG" />
+    <None Include="Resources\done.PNG" />
+    <None Include="Resources\silence.wav" />
+    <None Include="Resources\Capture1.PNG" />
+    <None Include="Resources\hoveroptions.PNG" />
+    <None Include="Resources\hoverworld.PNG" />
+    <None Include="Resources\gg.PNG" />
+    <None Include="Resources\g.PNG" />
+    <None Include="Resources\song.mp3" />
+    <None Include="Resources\background.wav" />
+    <None Include="Resources\y2mate.com - c418_subwoofer_lullaby_minecraft_volume_alpha_Gpd85y_iTxY.mp3" />
+    <None Include="Resources\world.png" />
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-black-leather-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d308746221f0b1908fca95b179d6cc5f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120px-Gold_oreTex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s189772745713394276_p3851_i145_w750.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minecraft-iron-texture_126504.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yeet.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yoot.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capt1ure.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capt1ure1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gogo.png" />
+    <None Include="Resources\go.png" />
+    <None Include="Resources\15737.png" />
+    <None Include="Resources\Blank_Sign.png" />
+    <None Include="Resources\11b52ea12b329819d532f1e8d068c8bc.png" />
+    <None Include="Resources\minecraft_render___tree_by_danixoldier-d6t90oe.png" />
+    <None Include="Resources\em46xuw0-180.jpg" />
+    <None Include="Resources\636158453613581226 %281%29.png" />
+    <None Include="Resources\636158453613581226.png" />
+    <None Include="Resources\download1.png" />
+    <None Include="Resources\Villager.png" />
+    <None Include="Resources\wigflip-ds.gif" />
+    <None Include="Resources\mossy_cobblestone_wallpaper_v2_by_fivezero09-d49ouym.png" />
+    <None Include="Resources\wigflip-ds.png" />
+    <None Include="Resources\download2.png" />
+    <None Include="Resources\1656fa8074e9571.jpg" />
+    <None Include="Resources\square patch-500x500.png" />
+    <None Include="Resources\Capture6.PNG" />
+    <None Include="Resources\Captur1e.PNG" />
+    <None Include="Resources\Capture7.PNG" />
+    <None Include="Resources\Capture8.PNG" />
+    <None Include="Resources\Capdfdture.PNG" />
+    <None Include="Resources\alexmove.png" />
+    <None Include="Resources\alexmove51.png" />
+    <None Include="Resources\minealex.png" />
+    <None Include="Resources\minesteve.png" />
+    <None Include="Resources\Moon.png" />
+    <None Include="Resources\shonstand.png" />
+    <None Include="Resources\shonmove.png" />
+    <None Include="Resources\shonmove1.png" />
+    <None Include="Resources\shonpic.png" />
+    <None Include="Resources\pixel-speech-bubble.png" />
+    <None Include="Resources\pixel-speech-bubble %281%29.png" />
+    <Content Include="VSDATA.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
