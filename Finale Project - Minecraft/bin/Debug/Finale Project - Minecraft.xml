@@ -1,0 +1,596 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Finale Project - Minecraft
+</name>
+</assembly>
+<members>
+<member name="T:Finale_Project___Minecraft.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._11b52ea12b329819d532f1e8d068c8bc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._120px_Gold_oreTex">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._15737">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._1656fa8074e9571">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._636158453613581226">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._636158453613581226__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.alexmove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.alexmove51">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Blank_Sign">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capdfdture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capt1ure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capt1ure1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Captur1e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Capture8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.click">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.coal_icon32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Create_a_new_world__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Credits">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.d308746221f0b1908fca95b179d6cc5f">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Diamond">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.diamondore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Dirt_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.done">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.donehover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.em46xuw0_180">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Emerald">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.emeraldore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.floor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.free_black_leather_vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.go">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.gogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Gold_Ingot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.hoveroptions">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.hoverworld">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.inv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.inv1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.inv2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.inv3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.inv4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.ironingot_icon32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.jumpstand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.jumpstand1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.mine1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.mine11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.mine2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minealex">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minealex1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minecraft_dirt_background_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minecraft_hd_logo_by_nuryrush_da2aumi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minecraft_iron_texture_126504">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minecraft_render___tree_by_danixoldier_d6t90oe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minecraftpattern_03_091815_742_thumb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minesteve">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.minesteve1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Moon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.mossy_cobblestone_wallpaper_v2_by_fivezero09_d49ouym">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.movepose1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.movepose2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.movepose3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.movepose4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.N7cKRE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Options">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.pixel_speech_bubble">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.pixel_speech_bubble__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.pose1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.pose2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.s189772745713394276_p3851_i145_w750">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sandfloor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.shonmove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.shonmove1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.shonpic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.shonstand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.shonstand1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.silence">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.song">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.square_patch_500x500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sun">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sun1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sunback">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.sunback1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.Villager">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.waterfall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.wigflip_ds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.wigflip_ds1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.world">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.yeet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Finale_Project___Minecraft.My.Resources.Resources.yoot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSet.GameplayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSet.GameplayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSet.GameplayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSetTableAdapters.GameplayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Finale_Project___Minecraft.VSDATADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Finale_Project___Minecraft.VSDATADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Finale_Project___Minecraft.VSDATADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.UpdateAll(Finale_Project___Minecraft.VSDATADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Finale_Project___Minecraft.VSDATADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
